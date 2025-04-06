@@ -1,0 +1,14 @@
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4.deps.json
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4.runtimeconfig.json
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4.dll
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4.pdb
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfoInputs.cache
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfo.cs
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.csproj.CoreCompileInputs.cache
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.dll
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/refint/Tutorial4.dll
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.pdb
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.genruntimeconfig.cache
+/Users/desstori_15/Desktop/Tutorial5/Tutorial4/obj/Debug/net8.0/ref/Tutorial4.dll
